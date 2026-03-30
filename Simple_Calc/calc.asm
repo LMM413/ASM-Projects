@@ -1,3 +1,5 @@
+; A simple calc that lets you + - * / numbers 0-9
+
 global _start
 
 section .bss

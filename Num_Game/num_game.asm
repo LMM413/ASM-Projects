@@ -1,3 +1,5 @@
+; Game where you guess a random number 0-9
+
 global _start
 
 section .bss

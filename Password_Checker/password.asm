@@ -1,3 +1,6 @@
+; Simple password system, just loops through your input and sees if
+; it matches the set code
+
 global _start
 
 section .bss
